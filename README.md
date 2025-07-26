@@ -9,11 +9,7 @@ This repository contains all materials used for a thesis comparing a custom-buil
 * `heart.csv` — Heart disease dataset used for training and evaluation (source: https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
 * `ANN.ipynb` — Jupyter notebook containing the implementation and evaluation of all models
 * `README.md` — This file
-<!--*  `thesis files/` - All Typst files
-* `thesis files/main.typ` — Source code of the thesis written in Typst
-* `thesis files/images/` — Plots and diagrams used in the thesis
-* `thesis files/refs.bib` — All citations in BibTeX format
--->
+*  `thesis`   — The final thesis pdf
 ---
 
 ## 🧠 Project Overview
@@ -44,14 +40,6 @@ pip install numpy pandas matplotlib seaborn scikit-learn xgboost
 
 4. **Run the notebook** to train models and reproduce the results.
 
----
-
-<!-- ## 📒 Typst Thesis Compilation
-
-1. Install Typst: [https://typst.app](https://typst.app)
-2. Open `main.typ`
-3. Compile the file to generate a PDF version of the thesis.
--->
 ---
 
 ## 📊 Dataset Information
